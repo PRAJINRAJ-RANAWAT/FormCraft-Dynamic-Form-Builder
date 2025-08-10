@@ -16,14 +16,7 @@ Whether you’re a **developer** tired of repetitive boilerplate code or a **non
 📌 **The Result:** More productivity, cleaner codebases, and a form-building experience so smooth, you’ll wonder how you ever worked without it.
 
 ---
-Got it ✅
-I’ll merge the **dynamic form definition** and **key characteristics** from your screenshot into the README in a **Problem → Solution** sequence so it reads like a compelling story for users and recruiters.
 
-Here’s the updated README:
-
----
-
-# 📝 FormCraft – Dynamic Form Builder
 
 🚀 **FormCraft** is a **MERN-powered** application that allows you to **dynamically generate custom forms** from just **one prompt**.
 With fully **customizable fields** and a **neat, polished UI**, it’s the ultimate tool for creating forms on the fly — no tedious manual work needed!
