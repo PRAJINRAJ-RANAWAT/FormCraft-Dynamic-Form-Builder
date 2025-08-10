@@ -105,17 +105,23 @@ npm start
 ```
 
 ---
+# ⭐️ Demo 
 
+#### 🖼 Polished UI
 
-## 🖼 Polished UI
-
+![homepagevid-ezgif com-resize](https://github.com/user-attachments/assets/23caefc9-8319-41a8-8e40-7f2f15813623)
 
 
 
 ---
 
+#### 🖼 Fully Customisable 
+![form display](https://github.com/user-attachments/assets/c33982f0-140b-41d2-84d7-e5257a6f6312)
 
-## 🖼 Dynamic Forms
+
+
+---
+#### 🖼 Dynamic Forms
 
 <img width="2879" height="1397" alt="Screenshot 2025-08-10 232942" src="https://github.com/user-attachments/assets/8c08c425-2220-4b15-849d-a96b47bb8a0a" />
 
